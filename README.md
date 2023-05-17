@@ -40,7 +40,7 @@ The following dependencies are required to run the analysis code:
 To reproduce the analysis, follow these steps:
 1. Clone the repository: `git clone https://github.com/Arman-hs/Country-Population-vs-World-Cup-Performance`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the analysis code: ``
+3. Use any Jupyter environment to open the following notebook: `Population_and_World_Cup_Performance.ipynb`
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please submit a pull request or open an issue. Let's collaborate to make this project even better.
