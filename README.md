@@ -30,17 +30,17 @@ Based on the analysis conducted, we will summarize the key findings and conclusi
 
 ## Dependencies
 The following dependencies are required to run the analysis code:
-- Python (version X.X.X)
-- Pandas (version X.X.X)
-- NumPy (version X.X.X)
-- Matplotlib (version X.X.X)
-- Seaborn (version X.X.X)
+- Python (version 3.9.13)
+- Pandas (version 1.4.4)
+- NumPy (version 1.21.5)
+- Matplotlib (version 3.5.2)
+- Seaborn (version 0.11.2)
 
 ## Usage
 To reproduce the analysis, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the analysis code: `python analysis.py`
+3. Run the analysis code: ``
 
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, suggestions, or improvements, please submit a pull request or open an issue. Let's collaborate to make this project even better.
