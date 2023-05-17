@@ -38,7 +38,7 @@ The following dependencies are required to run the analysis code:
 
 ## Usage
 To reproduce the analysis, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
+1. Clone the repository: `git clone https://github.com/Arman-hs/Country-Population-vs-World-Cup-Performance`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the analysis code: ``
 
